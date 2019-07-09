@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [Gamestart](#How to run the game)
-- [Instructions](#How to play)
+- [Starting the Game](#Starting)
+- [Instructions](#Instructions)
 
-## How to run the game
+## Starting the Game
 
 Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
 
@@ -15,6 +15,6 @@ Your **README.md** file should be updated with instructions on both how to 1. Ru
 
 For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
 
-## How to play
+## Instructions
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
