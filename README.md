@@ -17,9 +17,9 @@ Beware, not all bugs move at the same speed!
 
 Here are the player controls:
 
-Up arrow key: Move player forward
-Down arrow key: Move player backward
-Left arrow key: Move player left
-Right arrow key: Move player right
+* Up arrow key: Move player forward
+* Down arrow key: Move player backward
+* Left arrow key: Move player left
+* Right arrow key: Move player right
 
 That's it!
