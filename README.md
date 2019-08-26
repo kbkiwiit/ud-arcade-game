@@ -2,19 +2,24 @@
 
 ## Table of Contents
 
-- [Starting the Game](#Starting)
-- [Instructions](#Instructions)
-
-## Starting the Game
-
-Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
-
-Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
-
-Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
-
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+- [Instructions](#Starting)
+- [Controls](#Instructions)
 
 ## Instructions
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+This is a clone of the classic arcade game Frogger.
+
+The objective of the game is to get to the water without coming into contact with one of the enemy bugs. If one of the bugs gets you, it's game over and you have to start again.
+
+Beware, not all bugs move at the same speed!
+
+## Controls
+
+Here are the player controls:
+
+Up arrow key: Move player forward
+Down arrow key: Move player backward
+Left arrow key: Move player left
+Right arrow key: Move player right
+
+That's it!
